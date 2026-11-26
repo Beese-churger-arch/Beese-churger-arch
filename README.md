@@ -1,5 +1,12 @@
 ## Hi there, I'm Abiral👋
-*Insert cool README
+*Insert cool README*
+
+<h2 align="center">~/connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abiral-shrestha-115a8a365/"><kbd> LinkedIn </kbd></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/abiral_stha_/"><kbd> Instagram </kbd></a>&nbsp;&nbsp;
+</p>
 
 <!--
 **Beese-churger-arch/Beese-churger-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
