@@ -1,12 +1,8 @@
 ## Hi there, I'm Abiral👋
 *Insert cool README*
-
+<h2 align="center"><b>CONNECT WITH ME</b></h2>
 <p align="center">
-  <defs>
-  <filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/>
-    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-  </filter>
-</defs>
+ 
   <a href="https://www.linkedin.com/in/abiral-shrestha-115a8a365/">
     <img src="assets/linkedin.svg" width="200" alt="LinkedIn" />
   </a>
