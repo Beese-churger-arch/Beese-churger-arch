@@ -8,9 +8,8 @@
     </linearGradient>
   </defs>
   <rect x="3" y="3" width="194" height="54" rx="8" fill="#0D0221"
-        stroke="url(#ig)" stroke-width="2" stroke-dasharray="12 8">
-    <animate attributeName="stroke-dashoffset" from="0" to="-40" dur="1.5s" repeatCount="indefinite"/>
-    <animate attributeName="stroke-opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+        stroke="url(#ig)" stroke-width="3">
+    <animate attributeName="stroke-opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
   </rect>
   <text x="100" y="36" text-anchor="middle" font-family="monospace"
         font-size="16" font-weight="bold" fill="url(#ig)">INSTAGRAM</text>
